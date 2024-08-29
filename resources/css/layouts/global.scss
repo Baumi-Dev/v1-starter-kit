@@ -1,0 +1,29 @@
+body {
+    @apply font-sans min-h-screen;
+
+    .content-area {
+        @apply max-w-7xl mx-auto;
+
+        .inner-padding {
+            @apply md:px-12 px-6 py-20;
+        }
+    }
+}
+
+#hero {
+    @apply relative bg-cover bg-top bg-no-repeat h-[50rem] flex items-center;
+}
+
+#about {
+    //
+}
+
+#contact {
+    //
+}
+
+footer {
+    .social-icon {
+        @apply text-primary;
+    }
+}

@@ -1,0 +1,12 @@
+export_paths:
+  - config
+  - content
+  - database
+  - public
+  - resources
+  - .env.example
+  - package.json
+  - README.md
+  - tailwind.config.js
+dependencies:
+  statamic/eloquent-driver: ^4.14

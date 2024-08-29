@@ -1,0 +1,9 @@
+{
+	"name": "baumi-dev/v1-starter-kit",
+	"extra": {
+		"statamic": {
+			"name": "V1 Starter Kit",
+			"description": "V1 Starter Kit"
+		}
+	}
+}
